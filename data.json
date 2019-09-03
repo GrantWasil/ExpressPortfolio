@@ -26,6 +26,24 @@
       "live_link": "https://grantwasil.github.io/List-Pagination/",
       "github_link": "https://github.com/GrantWasil/List-Pagination",
       "image_urls": ["/static/img/pagination/main.PNG", "/static/img/pagination/first.png", "/static/img/pagination/second.png", "/static/img/pagination/third.png"]
+    },
+    {
+      "id": 3,
+      "project_name": "etch-a-sketch",
+      "description": "a customizable etch-a-sketch using javascript and css",
+      "technologies": ["javascript", "html", "css"],
+      "live_link": "https://grantwasil.github.io/etch-a-sketch/",
+      "github_link": "https://github.com/GrantWasil/etch-a-sketch",
+      "image_urls": ["/static/img/etch/main.png", "/static/img/etch/first.png", "/static/img/etch/second.png", "/static/img/etch/third.png"]
+    },
+    {
+      "id": 4,
+      "project_name": "calculator",
+      "description": "a web based calculator using javascript and css",
+      "technologies": ["javascript", "html", "css"],
+      "live_link": "https://grantwasil.github.io/calculator/",
+      "github_link": "https://github.com/GrantWasil/calculator",
+      "image_urls": ["/static/img/calculator/main.png", "/static/img/calculator/first.png", "/static/img/calculator/second.png", "/static/img/calculator/third.png"]
     }
   ]
 }
