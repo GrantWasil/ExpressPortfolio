@@ -4,10 +4,10 @@
       "id": 0,
       "project_name": "public api request",
       "description": "An application to get data from https://randomuser.me, and present it as a company page",
-      "technologies": ["API", "Javascript", "HTML", "CSS"],
+      "technologies": ["api", "javascript", "html", "css"],
       "live_link": "https://grantwasil.github.io/Public-API-Request/",
       "github_link": "https://github.com/GrantWasil/Public-API-Request",
-      "image_urls": ["/static/img/api/main.PNG", "/static/img/api/secondary.PNG", "/static/img/api/third.PNG"]
+      "image_urls": ["/static/img/api/main.PNG", "/static/img/api/first.png", "/static/img/api/second.png", "/static/img/api/third.png"]
     },
     {
       "id": 1,
@@ -16,16 +16,16 @@
       "technologies": ["javascript", "html", "css"],
       "live_link": "https://grantwasil.github.io/Object-Oriented-Game/",
       "github_link": "https://github.com/GrantWasil/Object-Oriented-Game",
-      "image_urls": ["/static/img/phrasehunter/main.png"]
+      "image_urls": ["/static/img/phrasehunter/main.png", "/static/img/phrasehunter/first.png", "/static/img/phrasehunter/second.png", "/static/img/phrasehunter/third.png"]
     },
     {
       "id": 2,
       "project_name": "list pagination",
-      "description": "Using Javascript to break a large list of information into multiple pages",
-      "technologies": ["JQuery", "Javascript", "HTML", "CSS"],
-      "live_link": "https://grantwasil.github.io/Public-API-Request/",
+      "description": "using javascript to break a large list of information into multiple pages",
+      "technologies": ["jquery", "javascript", "html", "css"],
+      "live_link": "https://grantwasil.github.io/List-Pagination/",
       "github_link": "https://github.com/GrantWasil/List-Pagination",
-      "image_urls": ["/static/img/pagination/main.PNG", "/static/img/pagination/secondary.PNG"]
+      "image_urls": ["/static/img/pagination/main.PNG", "/static/img/pagination/first.png", "/static/img/pagination/second.png", "/static/img/pagination/third.png"]
     }
   ]
 }
