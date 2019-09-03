@@ -2,12 +2,12 @@
   "projects": [
     {
       "id": 0,
-      "project_name": "Public API Request Application",
+      "project_name": "Public API Request",
       "description": "An application to get data from https://randomuser.me, and present it as a company page",
       "technologies": ["API", "Javascript", "HTML", "CSS"],
       "live_link": "https://grantwasil.github.io/Public-API-Request/",
       "github_link": "https://github.com/GrantWasil/Public-API-Request",
-      "image_urls": ["./images/api/main.PNG", "/images/api/secondary.PNG", "/images/api/third.PNG"]
+      "image_urls": ["/static/img/api/main.PNG", "/static/img/api/secondary.PNG", "/static/img/api/third.PNG"]
     },
     {
       "id": 1,
@@ -16,7 +16,7 @@
       "technologies": ["JQuery", "Javascript", "HTML", "CSS"],
       "live_link": "https://grantwasil.github.io/Public-API-Request/",
       "github_link": "https://github.com/GrantWasil/List-Pagination",
-      "image_urls": ["./images/pagination/main.PNG", "/images/pagination/secondary.PNG"]
+      "image_urls": ["/static/img/pagination/main.PNG", "/static/img/pagination/secondary.PNG"]
     }
   ]
 }
