@@ -2,7 +2,7 @@
   "projects": [
     {
       "id": 0,
-      "project_name": "Public API Request",
+      "project_name": "public api request",
       "description": "An application to get data from https://randomuser.me, and present it as a company page",
       "technologies": ["API", "Javascript", "HTML", "CSS"],
       "live_link": "https://grantwasil.github.io/Public-API-Request/",
@@ -11,7 +11,16 @@
     },
     {
       "id": 1,
-      "project_name": "List Pagination",
+      "project_name": "phrase hunter",
+      "description": "a \"hangman\" like game using front-end javascript",
+      "technologies": ["javascript", "html", "css"],
+      "live_link": "https://grantwasil.github.io/Object-Oriented-Game/",
+      "github_link": "https://github.com/GrantWasil/Object-Oriented-Game",
+      "image_urls": ["/static/img/phrasehunter/main.PNG"]
+    },
+    {
+      "id": 2,
+      "project_name": "list pagination",
       "description": "Using Javascript to break a large list of information into multiple pages",
       "technologies": ["JQuery", "Javascript", "HTML", "CSS"],
       "live_link": "https://grantwasil.github.io/Public-API-Request/",
