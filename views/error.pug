@@ -1,0 +1,10 @@
+extends layout.Pug
+
+block content 
+  article.grid-container.portfolio-intro
+    div
+      h2= `${error.message} - Status: ${error.status}`
+      p= error.stack
+      br 
+      h1 #[a(href='/') click me]
+  

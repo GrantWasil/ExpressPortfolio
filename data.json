@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "Public API Request Application",
+      "description": "An application to get data from https://randomuser.me, and present it as a company page",
+      "technologies": ["API", "Javascript", "HTML", "CSS"],
+      "live_link": "https://grantwasil.github.io/Public-API-Request/",
+      "github_link": "https://github.com/GrantWasil/Public-API-Request",
+      "image_urls": ["./images/api/main.PNG", "/images/api/secondary.PNG", "/images/api/third.PNG"]
+    },
+    {
+      "id": 1,
+      "project_name": "List Pagination",
+      "description": "Using Javascript to break a large list of information into multiple pages",
+      "technologies": ["JQuery", "Javascript", "HTML", "CSS"],
+      "live_link": "https://grantwasil.github.io/Public-API-Request/",
+      "github_link": "https://github.com/GrantWasil/List-Pagination",
+      "image_urls": ["./images/pagination/main.PNG", "/images/pagination/secondary.PNG"]
+    }
+  ]
+}
