@@ -3,7 +3,7 @@
     {
       "id": 0,
       "project_name": "public api request",
-      "description": "An application to get data from https://randomuser.me, and present it as a company page",
+      "description": "an application to get data from a user generation website and present it as a company page",
       "technologies": ["api", "javascript", "html", "css"],
       "live_link": "https://grantwasil.github.io/Public-API-Request/",
       "github_link": "https://github.com/GrantWasil/Public-API-Request",
