@@ -7,7 +7,7 @@
       "technologies": ["react", "axios", "javascript", "html", "css"],
       "live_link": "https://react-gallery.grantwasil.now.sh/jungle",
       "github_link": "https://github.com/GrantWasil/React-Gallery",
-      "image_urls": ["/static/img/photoapp/main.PNG", "/static/img/photoapp/first.png", "/static/img/photoapp/second.png", "/static/img/photoapp/third.PNG"]
+      "image_urls": ["/static/img/photoapp/main.png", "/static/img/photoapp/first.png", "/static/img/photoapp/second.png", "/static/img/photoapp/third.png"]
     },
     {
       "id": 1,
