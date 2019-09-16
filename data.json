@@ -2,6 +2,15 @@
   "projects": [
     {
       "id": 0,
+      "project_name": "react photo gallery",
+      "description": "an application to present photos based off of a users input",
+      "technologies": ["react", "axios", "javascript", "html", "css"],
+      "live_link": "https://react-gallery.grantwasil.now.sh/jungle",
+      "github_link": "https://github.com/GrantWasil/React-Gallery",
+      "image_urls": ["/static/img/reactphoto/main.PNG", "/static/img/reactphoto/first.png", "/static/img/reactphoto/second.png", "/static/img/reactphoto/third.PNG"]
+    },
+    {
+      "id": 1,
       "project_name": "public api request",
       "description": "an application to get data from a user generation website and present it as a company page",
       "technologies": ["api", "javascript", "html", "css"],
@@ -10,7 +19,7 @@
       "image_urls": ["/static/img/api/main.PNG", "/static/img/api/first.png", "/static/img/api/second.png", "/static/img/api/third.PNG"]
     },
     {
-      "id": 1,
+      "id": 2,
       "project_name": "phrase hunter",
       "description": "a \"hangman\" like game using front-end javascript",
       "technologies": ["javascript", "html", "css"],
@@ -19,7 +28,7 @@
       "image_urls": ["/static/img/phrasehunter/main.png", "/static/img/phrasehunter/first.png", "/static/img/phrasehunter/second.png", "/static/img/phrasehunter/third.png"]
     },
     {
-      "id": 2,
+      "id": 3,
       "project_name": "list pagination",
       "description": "using javascript to break a large list of information into multiple pages",
       "technologies": ["jquery", "javascript", "html", "css"],
@@ -28,7 +37,7 @@
       "image_urls": ["/static/img/pagination/main.PNG", "/static/img/pagination/first.png", "/static/img/pagination/second.png", "/static/img/pagination/third.png"]
     },
     {
-      "id": 3,
+      "id": 4,
       "project_name": "etch-a-sketch",
       "description": "a customizable etch-a-sketch using javascript and css",
       "technologies": ["javascript", "html", "css"],
@@ -37,7 +46,7 @@
       "image_urls": ["/static/img/etch/main.png", "/static/img/etch/first.png", "/static/img/etch/second.png", "/static/img/etch/third.png"]
     },
     {
-      "id": 4,
+      "id": 5,
       "project_name": "calculator",
       "description": "a web based calculator using javascript and css",
       "technologies": ["javascript", "html", "css"],
